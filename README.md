@@ -1,2 +1,2 @@
 # my-third-repo
-practice for learning git
+minor update practice for learning git
